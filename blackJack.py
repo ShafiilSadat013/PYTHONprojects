@@ -1,5 +1,3 @@
-#BLACK JACK V1
-
 import random
 from art import logo
 
